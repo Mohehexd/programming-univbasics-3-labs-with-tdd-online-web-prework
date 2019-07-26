@@ -1,7 +1,7 @@
 # Add your variables here
  
 describe "./calculator.rb" do
- first_number = hello_world
+ first_number = "hello_world"
  second_number = 2
 
 
